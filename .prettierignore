@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Test output
+coverage/
+
+# Vendored third-party libraries and legacy demo assets are intentionally
+# kept in their original form and are not reformatted.
+assets/
+
+# Legacy demo pages are hand-authored and not reformatted.
+*.html
